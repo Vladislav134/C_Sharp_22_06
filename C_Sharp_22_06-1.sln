@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.001.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C_Sharp_22_06-1", "C_Sharp_22_06-1.csproj", "{7FE8D5A8-9354-46AD-9638-B4B305E8B1CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HomeWork", "HomeWork", "{CE5F4C27-8329-4419-AF04-AEE19A1D376F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_1", "HomeWork\Task_1\Task_1.csproj", "{96C66726-EB1A-4167-A680-5225F6497BDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FE8D5A8-9354-46AD-9638-B4B305E8B1CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE8D5A8-9354-46AD-9638-B4B305E8B1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE8D5A8-9354-46AD-9638-B4B305E8B1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE8D5A8-9354-46AD-9638-B4B305E8B1CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96C66726-EB1A-4167-A680-5225F6497BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96C66726-EB1A-4167-A680-5225F6497BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96C66726-EB1A-4167-A680-5225F6497BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96C66726-EB1A-4167-A680-5225F6497BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{96C66726-EB1A-4167-A680-5225F6497BDA} = {CE5F4C27-8329-4419-AF04-AEE19A1D376F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2041F55E-4810-4399-81C0-05D438C652AC}
+	EndGlobalSection
+EndGlobal
