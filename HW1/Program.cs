@@ -9,7 +9,7 @@ int c = int.Parse(Console.ReadLine()!);
 int Maks;
 if (a < b )
  {
-    Maks = b;
+   Maks = b;
      }
 if (b < c)
  {
