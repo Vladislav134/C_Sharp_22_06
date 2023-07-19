@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.ComponentModel.DataAnnotations;
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World1!");
 Console.WriteLine( "Введите три числа: ");
 int a = int.Parse(Console.ReadLine()!);
 int b = int.Parse(Console.ReadLine()!);
